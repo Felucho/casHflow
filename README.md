@@ -5,3 +5,5 @@ my cash flow project ready to go
 
 //Calculado de editable table Codepen forked
 //https://codepen.io/Felixxx/pen/NRWyRz
+
+News about stock too!!
